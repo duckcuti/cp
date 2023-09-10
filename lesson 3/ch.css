@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    height: 59px;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: 'SF Pro Text', sans-serif;
+}
+
+.nav>li {
+    line-height: 59px;
+}
+
+.nav2 {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    height: 42px;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+.nav2>li {
+    line-height: 42px
+}
+
+.nav3{
+    height: 55px;
+    width: 150px;
+}
